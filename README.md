@@ -1,4 +1,5 @@
 ### 💫Hi there,I am Devendra Kayande 👋
+
 ![](https://blog.hcltechsw.com/wp-content/uploads/2020/06/iot_1.gif)
 
 
@@ -17,7 +18,6 @@
 
  
  📫 How to reach me: 
--[Instagram-@deven_427](https://www.instagram.com/deven_427/),
 [Email-MysticShadow](devendrakayande427@gmail.com),
 [LinkedIn-Devendra Kayande](https://www.linkedin.com/in/devendra-kayande-130284144/)
 
