@@ -3,7 +3,7 @@
 ![](https://blog.hcltechsw.com/wp-content/uploads/2020/06/iot_1.gif)
 
 
-🌱 I’m currently exploring the world of IoT and Real-Time Systems.I love to work at horizon where hardware and software meets.I am passionate to learn continuosly and deploy projects.I am also learning Data Structures ans Algo and trying my hands on Competative Programming.
+🌱 I’m currently exploring the world of IoT and Real-Time Systems.I love to work at horizon where hardware and software meets.I am passionate to learn continuosly and deploy projects.I am also learning Data Structures and Algo and trying my hands on Competative Programming.
  
 ⚡Tech Stack:
 
