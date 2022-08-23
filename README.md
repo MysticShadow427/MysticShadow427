@@ -3,7 +3,7 @@
 ![](https://blog.hcltechsw.com/wp-content/uploads/2020/06/iot_1.gif)
 
 
-🌱 I’m currently exploring the world of <b>IoT</b> and <b>Networking</b>.I love to work at horizon where hardware and software meets.I am passionate to learn continuosly and deploy projects.I am also learning Data Structures and Algo and trying my hands on Competative Programming.
+🌱 I’m currently exploring the world of <b>IoT</b> and <b>Networking</b>.I love to work at horizon where hardware and software meets.I am passionate to learn continuosly and deploy projects.
 
 My 3 projects till now->Arduino Alarming System,Arduino RPi Intercom Project and AWS IoT Shipment Tracker.
 
