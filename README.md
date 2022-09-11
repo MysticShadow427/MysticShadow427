@@ -1,6 +1,6 @@
 <h2>💫Hi there,I am <b>Devendra Kayande</b> 👋</h2>
 
-![](https://blog.hcltechsw.com/wp-content/uploads/2020/06/iot_1.gif)
+ <img src="https://blog.hcltechsw.com/wp-content/uploads/2020/06/iot_1.gif"  align="center" />
 
 
 🌱 I’m currently exploring the world of <b>IoT</b> and <b>WebD</b>.I love to work at horizon where hardware and software meets.I am passionate to learn continuosly and deploy real time applications.
