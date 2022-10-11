@@ -1,4 +1,4 @@
-<h2>💫Hi there,I am <b>Devendra Kayande</b> 👋</h2>
+  <h2 align="centre">💫Hi there,I am <b>Devendra Kayande</b> 👋</h2>
 
  <img src="https://blog.hcltechsw.com/wp-content/uploads/2020/06/iot_1.gif"  align="center" />
 
@@ -29,5 +29,5 @@ My projects till now->Arduino Alarming System,Arduino RPi Intercom Project, AWS 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MysticShadow427&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
+<img src="https://profile-counter.glitch.me/MysticShadow427/count.svg" />
 
